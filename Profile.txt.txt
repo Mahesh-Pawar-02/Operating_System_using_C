@@ -1,0 +1,78 @@
+
+Mahesh Dinkar Pawar
+
+Aspiring Software Developer | Machine Learning Enthusiast | Automation Specialist
+
+📍 Pune, Maharashtra, India
+📧 maheshpawar30627@gmail.com
+📞 +91 9322150275
+
+About Me:
+
+I am an enthusiastic and dedicated software developer with a strong foundation in various programming languages and a passion for machine learning and automation. My journey has equipped me with a diverse set of skills ranging from application development and data analysis to web automation and deep learning. I am driven by the opportunity to enhance my knowledge, improve my skills, and contribute to the overall development of the organizations I work with.
+
+Education:
+
+Bachelor of Computer Science (BCS)
+- Prof. Ramkrishna More ACS College, Akurdi
+- Savitribai Phule Pune University
+
+Higher Secondary Certificate (HSC)
+- CES Prerna Jr. College, Nigadi
+- State Board of Maharashtra
+- 63.67%
+
+Secondary School Certificate (SSC)
+- Shri. Saint Tukaram Maharaj Vidyalaya, Chikhali
+- State Board of Maharashtra
+- 90.20%
+
+Technical Skills:
+
+- Programming Languages: C, C++, Java, Python, TypeScript, JavaScript
+- Python Libraries: Numpy, SciPy, Scikit-Learn, TensorFlow, Pandas, OpenCV, Selenium
+- Web Technologies: HTML/HTML5, CSS2/CSS3, JavaScript
+- IDEs & Tools: Visual Studio Code, Sublime, WebStorm, IntelliJ
+- Web Servers: Apache Tomcat, WebLogic, IBM WebSphere
+- Version Control: GIT
+- Databases: MySQL, PL/SQL (Oracle), MongoDB
+- Operating Systems: Windows NT, Linux Distribution
+- JavaScript Libraries: Bootstrap, AngularJS, Material Design
+- Methodologies: Agile, Waterfall
+
+Projects:
+
+1. Customized Virtual File System (C Programming)
+2. File Packer Unpacker with Encryption (Java Programming)
+3. Generalized Data Structure Library (C++ Programming)
+4. Chat Messenger with Log Facility (Java Programming)
+5. Customized Database Management System (Java Programming)
+6. Periodic Process Logger with Auto Scheduled Log Report Facility (Python Programming)
+7. WhatsApp Automation (Python Programming)
+8. Duplicate File Removal Automation Script (Python Programming)
+9. Titanic Survival Predictor (Machine Learning using Python)
+10. Iris Dataset using Various Machine Learning Algorithms (Machine Learning using Python)
+
+Experience Highlights:
+
+- Application development using C, C++, Java, TypeScript, JavaScript, and Python.
+- Proficient in Machine Learning and Deep Learning for multiple applications.
+- Experienced in writing automation scripts for web, file system, and process automation.
+- Strong coding ability, both in producing clean and efficient code and debugging large codebases.
+- Knowledgeable in front-end development using Angular 17 and server-side development using NodeJS.
+- Experienced with AWS and Firebase for web deployment and storage.
+
+Certifications:
+
+- LeetCode Profile: Mahesh-Pawar-02 (https://leetcode.com/u/Mahesh-Pawar-02/)
+- GitHub: Mahesh-Pawar-02 (https://github.com/Mahesh-Pawar-02)
+- LinkedIn: Mahesh Dinkar Pawar (https://www.linkedin.com/in/mahesh-dinkar-pawar)
+
+Personal Information:
+
+- Date of Birth: 17 October 2004
+- Father’s Name: Dinkar Kundalik Pawar
+- Marital Status: Unmarried
+- Nationality: Indian
+
+I am eager to connect with like-minded professionals and explore opportunities where I can apply my skills and contribute to innovative projects. Let's connect and grow together!
